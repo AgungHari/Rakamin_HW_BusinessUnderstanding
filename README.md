@@ -2,12 +2,11 @@
 
 # Rakamin Homework : Business Understanding
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-
 ## Deskripsi
 
 Repositori ini berisi rangkaian materi dan homework selama seminggu Bootcamp di Rakamin Academy. Setiap minggu dilengkapi modul pembelajaran (PDF) dan tugas untuk memperkuat pemahaman konsep.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Ringkasan Minggu ini (Week 7)
 - Memahami proses bisnis dari data yang disajikan
