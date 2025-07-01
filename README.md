@@ -12,7 +12,7 @@ Repositori ini berisi rangkaian materi dan homework selama seminggu Bootcamp di 
 ## 🗂️ Struktur Repository
 
 ```
-/Rakamin-Python-Programming
+/Rakamin-Business-Understanding
 │
 ├── .gitignore
 ├── gemeter.ipynb                                  #Plot
